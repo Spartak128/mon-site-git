@@ -1,19 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+
 h1,h2,h3,h4,h5,h6 {
 	color: #317eac;
 }
 
-h1 {
-	font-size: 2.5em;
-	margin-top: 30px;
-	margin-bottom: 35px;
+#logo {
+	height: 90px;
+	width: 90px;
+	float: left;
 }
 
-p{
+#title{
+	height:90px;
+	vertical-align:center;
+	color: #317eac;
+	margin-left:120px;
+	font-size: 4em;
+	border: 1px solid #DDD;
+}
+
+p {
 	font-size: 1.1em;
 	line-height: 25px
 }
 
-div.commentaires{
+div.commentaires {
 	background-color: #f9f9f9;
 	padding:20px;
 }
