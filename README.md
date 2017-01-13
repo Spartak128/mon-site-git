@@ -1,2 +1,2 @@
-# mon-site-git
+# Mon-site-git
 Site web sur l'apprentissage de GIT
